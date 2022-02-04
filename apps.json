@@ -9,29 +9,29 @@
     {
         "id": "1",
         "title": "CrownJS",
-        "icon": "/apps/assets/crownjs.png",
+        "icon": "/Nightmare-2.0/apps/assets/crownjs.png",
         "type": "js",
-        "js": "/apps/crownjs.js"
+        "js": "/Nightmare-2.0/apps/crownjs.js"
     },
     {
         "id": "2",
         "title": "Calculator",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Casio-fx115ES-5564.jpg",
         "type": "url",
-        "url": "/apps/calculator.html"
+        "url": "/Nightmare-2.0/apps/calculator.html"
     },
     {
         "id": "3",
         "title": "Notepad",
         "icon": "https://cdn3.iconfinder.com/data/icons/basic-ui-line-circle/605/121_-_Report-512.png",
         "type": "url",
-        "url": "/apps/notepad.html"
+        "url": "/Nightmare-2.0/apps/notepad.html"
     },
     {
     "id": "4",
     "title": "Infinity",
     "icon": "https://s2.coinmarketcap.com/static/img/coins/200x200/9603.png",
-    "url": "/apps/infinity.html"
+    "url": "/Nightmare-2.0/apps/infinity.html"
     },
         {
         "id": "5",
@@ -66,6 +66,6 @@
     "title": "credit ",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Magicdelivery_gaming_logo.svg/1000px-Magicdelivery_gaming_logo.svg.png",
     "type": "url",
-    "url": "/apps/credit.html"
+    "url": "/Nightmare-2.0/apps/credit.html"
     }
 ]
